@@ -1,0 +1,17 @@
+body{
+    background-attachment: scroll;
+}
+.contenedor__titulo{
+    position: absolute;
+    text-align: center;
+    align-items: center;
+}
+.form{
+    margin-top: 25vh;
+}
+section{
+    font-size: calc(1em + 1vw);
+    line-height: 1em;
+    padding: 1em;
+    margin: 1em;
+}
